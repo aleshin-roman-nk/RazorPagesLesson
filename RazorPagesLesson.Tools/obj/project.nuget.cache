@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BX6LcqcSEzq+mC4wyzFCq6vRZCvc1yFQ3i19jLMBMD67kqTLLYlgu1lQ6Zt2PehFIjDaQOGnOnv1ylLlBhtQog==",
+  "success": true,
+  "projectFilePath": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson.Tools\\RazorPagesLesson.Tools.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alesh\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

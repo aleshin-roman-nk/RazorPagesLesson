@@ -1,0 +1,12 @@
+E:\samples\RazorPagesLesson\RazorPagesLesson.Tools\bin\Debug\net6.0\RazorPagesLesson.Tools.deps.json
+E:\samples\RazorPagesLesson\RazorPagesLesson.Tools\bin\Debug\net6.0\RazorPagesLesson.Tools.dll
+E:\samples\RazorPagesLesson\RazorPagesLesson.Tools\bin\Debug\net6.0\ref\RazorPagesLesson.Tools.dll
+E:\samples\RazorPagesLesson\RazorPagesLesson.Tools\bin\Debug\net6.0\RazorPagesLesson.Tools.pdb
+E:\samples\RazorPagesLesson\RazorPagesLesson.Tools\obj\Debug\net6.0\RazorPagesLesson.Tools.csproj.AssemblyReference.cache
+E:\samples\RazorPagesLesson\RazorPagesLesson.Tools\obj\Debug\net6.0\RazorPagesLesson.Tools.GeneratedMSBuildEditorConfig.editorconfig
+E:\samples\RazorPagesLesson\RazorPagesLesson.Tools\obj\Debug\net6.0\RazorPagesLesson.Tools.AssemblyInfoInputs.cache
+E:\samples\RazorPagesLesson\RazorPagesLesson.Tools\obj\Debug\net6.0\RazorPagesLesson.Tools.AssemblyInfo.cs
+E:\samples\RazorPagesLesson\RazorPagesLesson.Tools\obj\Debug\net6.0\RazorPagesLesson.Tools.csproj.CoreCompileInputs.cache
+E:\samples\RazorPagesLesson\RazorPagesLesson.Tools\obj\Debug\net6.0\RazorPagesLesson.Tools.dll
+E:\samples\RazorPagesLesson\RazorPagesLesson.Tools\obj\Debug\net6.0\ref\RazorPagesLesson.Tools.dll
+E:\samples\RazorPagesLesson\RazorPagesLesson.Tools\obj\Debug\net6.0\RazorPagesLesson.Tools.pdb

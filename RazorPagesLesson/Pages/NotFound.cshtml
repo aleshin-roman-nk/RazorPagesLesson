@@ -1,0 +1,18 @@
+﻿@page
+@model RazorPagesLesson.Pages.NotFoundModel
+@{
+    ViewData["Title"] = "Not found";
+}
+
+<div class="row">
+    <div class="col text-center">
+        <img src="/images/page_not_found.jpg" alt="page not found"/>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col text-center">
+        <h1>The resource you are looking for con not be found</h1>
+        <a asp-page="/Employees/Employees" class="btn btn-primary">click here to get back...</a>
+    </div>
+</div>

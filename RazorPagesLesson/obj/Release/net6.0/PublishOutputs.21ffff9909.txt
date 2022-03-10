@@ -1,0 +1,14 @@
+e:\samples\RazorPagesLesson\RazorPagesLesson\obj\Release\net6.0\PubTmp\Out\RazorPagesLesson.exe
+e:\samples\RazorPagesLesson\RazorPagesLesson\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+e:\samples\RazorPagesLesson\RazorPagesLesson\obj\Release\net6.0\PubTmp\Out\appsettings.json
+e:\samples\RazorPagesLesson\RazorPagesLesson\obj\Release\net6.0\PubTmp\Out\RazorPagesLesson.dll
+e:\samples\RazorPagesLesson\RazorPagesLesson\obj\Release\net6.0\PubTmp\Out\RazorPagesLesson.deps.json
+e:\samples\RazorPagesLesson\RazorPagesLesson\obj\Release\net6.0\PubTmp\Out\RazorPagesLesson.runtimeconfig.json
+e:\samples\RazorPagesLesson\RazorPagesLesson\obj\Release\net6.0\PubTmp\Out\RazorPagesLesson.pdb
+e:\samples\RazorPagesLesson\RazorPagesLesson\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+e:\samples\RazorPagesLesson\RazorPagesLesson\obj\Release\net6.0\PubTmp\Out\RazorPagesLesson.Model.dll
+e:\samples\RazorPagesLesson\RazorPagesLesson\obj\Release\net6.0\PubTmp\Out\RazorPagesLesson.Services.dll
+e:\samples\RazorPagesLesson\RazorPagesLesson\obj\Release\net6.0\PubTmp\Out\RazorPagesLesson.Tools.dll
+e:\samples\RazorPagesLesson\RazorPagesLesson\obj\Release\net6.0\PubTmp\Out\RazorPagesLesson.Model.pdb
+e:\samples\RazorPagesLesson\RazorPagesLesson\obj\Release\net6.0\PubTmp\Out\RazorPagesLesson.Services.pdb
+e:\samples\RazorPagesLesson\RazorPagesLesson\obj\Release\net6.0\PubTmp\Out\RazorPagesLesson.Tools.pdb
