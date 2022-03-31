@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3qkPITnheCSTo/TP8iKqx4uKOlxqDkJsEKjlTxjb21bI8WF0hurRCxfeJ8e2tt5y//jVxtkK/t016HdsbwZaYA==",
+  "dgSpecHash": "WR5Lyc78gqkgTMS35jeX2D7bOxBVQBnVHEKuKdwnfe0OcyrOapmak70IfPEOZQcbyr5QBIBmvDQ7ksXDyaWkxg==",
   "success": true,
-  "projectFilePath": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson.Model\\RazorPagesLesson.Model.csproj",
+  "projectFilePath": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson.Model\\RazorPagesLesson.Model.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

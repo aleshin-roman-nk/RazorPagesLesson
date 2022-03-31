@@ -32,4 +32,17 @@ app.UseAuthorization();
 
 app.MapRazorPages();
 
+//app.MapGet("/{cmd}", (string cmd) => getPage(cmd));
+
 app.Run();
+
+//string getPage(string c)
+//{
+//    if (c.ToUpper().Equals("GC"))
+//    {
+//        Console.WriteLine("command: GC.Collect(); is executing...");
+//        GC.Collect();
+//    }
+        
+//    return $"command : {c}";
+//}

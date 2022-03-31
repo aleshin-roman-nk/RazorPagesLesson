@@ -8,19 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\alesh\\.nuget\\packages\\": {}
+    "C:\\Users\\roman\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson.Model\\RazorPagesLesson.Model.csproj",
+      "projectUniqueName": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson.Model\\RazorPagesLesson.Model.csproj",
       "projectName": "RazorPagesLesson.Model",
-      "projectPath": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson.Model\\RazorPagesLesson.Model.csproj",
-      "packagesPath": "C:\\Users\\alesh\\.nuget\\packages\\",
-      "outputPath": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson.Model\\obj\\",
+      "projectPath": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson.Model\\RazorPagesLesson.Model.csproj",
+      "packagesPath": "C:\\Users\\roman\\.nuget\\packages\\",
+      "outputPath": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson.Model\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\alesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\roman\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

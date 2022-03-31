@@ -73,5 +73,10 @@ namespace RazorPagesLesson.Pages.Employees
 
             return uniqFileName;
         }
+
+        ~EditModel()
+        {
+            LoggerObj.Write($"~EditModel()");
+        }
     }
 }

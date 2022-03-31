@@ -10,3 +10,15 @@ e:\samples\RazorPagesLesson\RazorPagesLesson.Model\obj\Debug\net6.0\RazorPagesLe
 e:\samples\RazorPagesLesson\RazorPagesLesson.Model\obj\Debug\net6.0\RazorPagesLesson.Model.dll
 e:\samples\RazorPagesLesson\RazorPagesLesson.Model\obj\Debug\net6.0\ref\RazorPagesLesson.Model.dll
 e:\samples\RazorPagesLesson\RazorPagesLesson.Model\obj\Debug\net6.0\RazorPagesLesson.Model.pdb
+g:\MyGIT\RazorPagesLesson\RazorPagesLesson.Model\bin\Debug\net6.0\RazorPagesLesson.Model.deps.json
+g:\MyGIT\RazorPagesLesson\RazorPagesLesson.Model\bin\Debug\net6.0\RazorPagesLesson.Model.dll
+g:\MyGIT\RazorPagesLesson\RazorPagesLesson.Model\bin\Debug\net6.0\RazorPagesLesson.Model.pdb
+g:\MyGIT\RazorPagesLesson\RazorPagesLesson.Model\obj\Debug\net6.0\RazorPagesLesson.Model.csproj.AssemblyReference.cache
+g:\MyGIT\RazorPagesLesson\RazorPagesLesson.Model\obj\Debug\net6.0\RazorPagesLesson.Model.GeneratedMSBuildEditorConfig.editorconfig
+g:\MyGIT\RazorPagesLesson\RazorPagesLesson.Model\obj\Debug\net6.0\RazorPagesLesson.Model.AssemblyInfoInputs.cache
+g:\MyGIT\RazorPagesLesson\RazorPagesLesson.Model\obj\Debug\net6.0\RazorPagesLesson.Model.AssemblyInfo.cs
+g:\MyGIT\RazorPagesLesson\RazorPagesLesson.Model\obj\Debug\net6.0\RazorPagesLesson.Model.csproj.CoreCompileInputs.cache
+g:\MyGIT\RazorPagesLesson\RazorPagesLesson.Model\obj\Debug\net6.0\RazorPagesLesson.Model.dll
+g:\MyGIT\RazorPagesLesson\RazorPagesLesson.Model\obj\Debug\net6.0\refint\RazorPagesLesson.Model.dll
+g:\MyGIT\RazorPagesLesson\RazorPagesLesson.Model\obj\Debug\net6.0\RazorPagesLesson.Model.pdb
+g:\MyGIT\RazorPagesLesson\RazorPagesLesson.Model\obj\Debug\net6.0\ref\RazorPagesLesson.Model.dll

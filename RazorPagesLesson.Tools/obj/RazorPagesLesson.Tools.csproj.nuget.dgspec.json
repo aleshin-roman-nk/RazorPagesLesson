@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "e:\\samples\\RazorPagesLesson\\RazorPagesLesson.Tools\\RazorPagesLesson.Tools.csproj": {}
+    "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson.Tools\\RazorPagesLesson.Tools.csproj": {}
   },
   "projects": {
-    "e:\\samples\\RazorPagesLesson\\RazorPagesLesson.Tools\\RazorPagesLesson.Tools.csproj": {
+    "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson.Tools\\RazorPagesLesson.Tools.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson.Tools\\RazorPagesLesson.Tools.csproj",
+        "projectUniqueName": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson.Tools\\RazorPagesLesson.Tools.csproj",
         "projectName": "RazorPagesLesson.Tools",
-        "projectPath": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson.Tools\\RazorPagesLesson.Tools.csproj",
-        "packagesPath": "C:\\Users\\alesh\\.nuget\\packages\\",
-        "outputPath": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson.Tools\\obj\\",
+        "projectPath": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson.Tools\\RazorPagesLesson.Tools.csproj",
+        "packagesPath": "C:\\Users\\roman\\.nuget\\packages\\",
+        "outputPath": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson.Tools\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\alesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\roman\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

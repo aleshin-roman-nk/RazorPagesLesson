@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Lm/fwuVyzAcI5tgi8jLeOGAe2On9tzJW2sMXDYnZwO0=",
+  "Hash": "jRbNdYBn9cFpupIGUIfRnSau0+4p0b4HdV8i793VFxk=",
   "Source": "RazorPagesLesson",
   "BasePath": "_content/RazorPagesLesson",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "RazorPagesLesson\\wwwroot",
       "Source": "RazorPagesLesson",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\obj\\Debug\\net6.0\\scopedcss\\bundle\\RazorPagesLesson.styles.css",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\obj\\Debug\\net6.0\\scopedcss\\bundle\\RazorPagesLesson.styles.css",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Computed",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "RazorPagesLesson.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\obj\\Debug\\net6.0\\scopedcss\\bundle\\RazorPagesLesson.styles.css"
+      "OriginalItemSpec": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\obj\\Debug\\net6.0\\scopedcss\\bundle\\RazorPagesLesson.styles.css"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\RazorPagesLesson.bundle.scp.css",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\RazorPagesLesson.bundle.scp.css",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Computed",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "RazorPagesLesson.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\RazorPagesLesson.bundle.scp.css"
+      "OriginalItemSpec": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\RazorPagesLesson.bundle.scp.css"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\css\\site.css",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\css\\site.css",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\favicon.ico",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\favicon.ico",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\images\\0d77eefa-bd75-449c-a394-7fbec9107765_4.png",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\images\\0d77eefa-bd75-449c-a394-7fbec9107765_4.png",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "images/0d77eefa-bd75-449c-a394-7fbec9107765_4.png",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\images\\0d77eefa-bd75-449c-a394-7fbec9107765_4.png"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\images\\0f12cf51-3878-479b-b5e9-0837e6e046cc_3.png",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\images\\0f12cf51-3878-479b-b5e9-0837e6e046cc_3.png",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "images/0f12cf51-3878-479b-b5e9-0837e6e046cc_3.png",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\images\\0f12cf51-3878-479b-b5e9-0837e6e046cc_3.png"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\images\\1.png",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\images\\1.png",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "images/1.png",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\images\\1.png"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\images\\12814944673_b8dbd342da_o-696x464.png",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\images\\12814944673_b8dbd342da_o-696x464.png",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "images/12814944673_b8dbd342da_o-696x464.png",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\images\\12814944673_b8dbd342da_o-696x464.png"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\images\\2.png",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\images\\2.png",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "images/2.png",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\images\\2.png"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\images\\3.png",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\images\\3.png",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "images/3.png",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\images\\3.png"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\images\\4.png",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\images\\4.png",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "images/4.png",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\images\\4.png"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\images\\5.png",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\images\\5.png",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "images/5.png",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\images\\5.png"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\images\\6.png",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\images\\6.png",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "images/6.png",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\images\\6.png"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\images\\7.png",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\images\\7.png",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "images/7.png",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\images\\7.png"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\images\\avatar.png",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\images\\avatar.png",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "images/avatar.png",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatar.png"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\images\\avatar2.png",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\images\\avatar2.png",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "images/avatar2.png",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatar2.png"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\images\\avatar3.png",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\images\\avatar3.png",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "images/avatar3.png",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatar3.png"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\images\\avatar4.png",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\images\\avatar4.png",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "images/avatar4.png",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatar4.png"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\images\\avatar5.png",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\images\\avatar5.png",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "images/avatar5.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatar5.png"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\images\\banner.jpg",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\images\\banner.jpg",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "images/banner.jpg",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner.jpg"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\images\\LessonsCoreLogo.png",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\images\\LessonsCoreLogo.png",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "images/LessonsCoreLogo.png",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\images\\LessonsCoreLogo.png"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\images\\noimage - Copy.png",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\images\\noimage - Copy.png",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "images/noimage - Copy.png",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\images\\noimage - Copy.png"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\images\\noimage.png",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\images\\noimage.png",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "images/noimage.png",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\images\\noimage.png"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\images\\NotFound.png",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\images\\NotFound.png",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "images/NotFound.png",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\images\\NotFound.png"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\images\\page_not_found.jpg",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\images\\page_not_found.jpg",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "images/page_not_found.jpg",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\images\\page_not_found.jpg"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\images\\showthumb.php.jpg",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\images\\showthumb.php.jpg",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "images/showthumb.php.jpg",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\images\\showthumb.php.jpg"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\images\\ворон.jpg",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\images\\ворон.jpg",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "images/ворон.jpg",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ворон.jpg"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\images\\дом.png",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\images\\дом.png",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "images/дом.png",
       "AssetKind": "All",
@@ -493,10 +493,27 @@
       "OriginalItemSpec": "wwwroot\\images\\дом.png"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\js\\site.js",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\images\\ново1.JPG",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "BasePath": "_content/RazorPagesLesson",
+      "RelativePath": "images/ново1.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\ново1.JPG"
+    },
+    {
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\js\\site.js",
+      "SourceId": "RazorPagesLesson",
+      "SourceType": "Discovered",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -510,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -527,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -544,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -561,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -578,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -595,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -612,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -629,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -646,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -663,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -680,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -697,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -714,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -731,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -748,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -765,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -782,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -799,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -816,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -833,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -850,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -867,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -884,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -901,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -918,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -935,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -952,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -969,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -986,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1003,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1020,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1037,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1054,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1071,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1088,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1105,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1122,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1139,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1156,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1173,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1190,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1207,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1224,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1241,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1258,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1275,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1292,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1309,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1326,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1343,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1360,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1377,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1394,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1411,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1428,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1445,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1462,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "RazorPagesLesson",
       "SourceType": "Discovered",
-      "ContentRoot": "e:\\samples\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
+      "ContentRoot": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\wwwroot\\",
       "BasePath": "_content/RazorPagesLesson",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
