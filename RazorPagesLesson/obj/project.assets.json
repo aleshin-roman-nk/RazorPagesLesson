@@ -101,23 +101,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\roman\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\alesh\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\RazorPagesLesson.csproj",
+      "projectUniqueName": "e:\\prj\\c#\\RazorPagesLesson\\RazorPagesLesson\\RazorPagesLesson.csproj",
       "projectName": "RazorPagesLesson",
-      "projectPath": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\RazorPagesLesson.csproj",
-      "packagesPath": "C:\\Users\\roman\\.nuget\\packages\\",
-      "outputPath": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\obj\\",
+      "projectPath": "e:\\prj\\c#\\RazorPagesLesson\\RazorPagesLesson\\RazorPagesLesson.csproj",
+      "packagesPath": "C:\\Users\\alesh\\.nuget\\packages\\",
+      "outputPath": "e:\\prj\\c#\\RazorPagesLesson\\RazorPagesLesson\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\roman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\alesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -131,14 +127,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson.Model\\RazorPagesLesson.Model.csproj": {
-              "projectPath": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson.Model\\RazorPagesLesson.Model.csproj"
+            "e:\\prj\\c#\\RazorPagesLesson\\RazorPagesLesson.Model\\RazorPagesLesson.Model.csproj": {
+              "projectPath": "e:\\prj\\c#\\RazorPagesLesson\\RazorPagesLesson.Model\\RazorPagesLesson.Model.csproj"
             },
-            "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson.Services\\RazorPagesLesson.Services.csproj": {
-              "projectPath": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson.Services\\RazorPagesLesson.Services.csproj"
+            "e:\\prj\\c#\\RazorPagesLesson\\RazorPagesLesson.Services\\RazorPagesLesson.Services.csproj": {
+              "projectPath": "e:\\prj\\c#\\RazorPagesLesson\\RazorPagesLesson.Services\\RazorPagesLesson.Services.csproj"
             },
-            "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson.Tools\\RazorPagesLesson.Tools.csproj": {
-              "projectPath": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson.Tools\\RazorPagesLesson.Tools.csproj"
+            "e:\\prj\\c#\\RazorPagesLesson\\RazorPagesLesson.Tools\\RazorPagesLesson.Tools.csproj": {
+              "projectPath": "e:\\prj\\c#\\RazorPagesLesson\\RazorPagesLesson.Tools\\RazorPagesLesson.Tools.csproj"
             }
           }
         }

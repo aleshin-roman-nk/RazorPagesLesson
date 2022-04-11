@@ -8,53 +8,53 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RazorPagesLesson
 build_property.RootNamespace = RazorPagesLesson
-build_property.ProjectDir = g:\MyGIT\RazorPagesLesson\RazorPagesLesson\
+build_property.ProjectDir = e:\prj\c#\RazorPagesLesson\RazorPagesLesson\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = g:\MyGIT\RazorPagesLesson\RazorPagesLesson
+build_property.MSBuildProjectDirectory = e:\prj\c#\RazorPagesLesson\RazorPagesLesson
 build_property._RazorSourceGeneratorDebug = 
 
-[g:/MyGIT/RazorPagesLesson/RazorPagesLesson/Pages/Employees/Details.cshtml]
+[e:/prj/c\#/RazorPagesLesson/RazorPagesLesson/Pages/Employees/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[g:/MyGIT/RazorPagesLesson/RazorPagesLesson/Pages/Employees/Edit.cshtml]
+[e:/prj/c\#/RazorPagesLesson/RazorPagesLesson/Pages/Employees/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[g:/MyGIT/RazorPagesLesson/RazorPagesLesson/Pages/Employees/Employees.cshtml]
+[e:/prj/c\#/RazorPagesLesson/RazorPagesLesson/Pages/Employees/Employees.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVzXEVtcGxveWVlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[g:/MyGIT/RazorPagesLesson/RazorPagesLesson/Pages/Error.cshtml]
+[e:/prj/c\#/RazorPagesLesson/RazorPagesLesson/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[g:/MyGIT/RazorPagesLesson/RazorPagesLesson/Pages/Index.cshtml]
+[e:/prj/c\#/RazorPagesLesson/RazorPagesLesson/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[g:/MyGIT/RazorPagesLesson/RazorPagesLesson/Pages/NotFound.cshtml]
+[e:/prj/c\#/RazorPagesLesson/RazorPagesLesson/Pages/NotFound.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTm90Rm91bmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[g:/MyGIT/RazorPagesLesson/RazorPagesLesson/Pages/Privacy.cshtml]
+[e:/prj/c\#/RazorPagesLesson/RazorPagesLesson/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[g:/MyGIT/RazorPagesLesson/RazorPagesLesson/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[e:/prj/c\#/RazorPagesLesson/RazorPagesLesson/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[g:/MyGIT/RazorPagesLesson/RazorPagesLesson/Pages/_ViewImports.cshtml]
+[e:/prj/c\#/RazorPagesLesson/RazorPagesLesson/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[g:/MyGIT/RazorPagesLesson/RazorPagesLesson/Pages/_ViewStart.cshtml]
+[e:/prj/c\#/RazorPagesLesson/RazorPagesLesson/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[g:/MyGIT/RazorPagesLesson/RazorPagesLesson/Pages/Shared/_Layout.cshtml]
+[e:/prj/c\#/RazorPagesLesson/RazorPagesLesson/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ov4oh9oas8

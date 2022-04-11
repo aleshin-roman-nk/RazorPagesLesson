@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "n+N2lYIFBbtPNdZvb2s59A/ZV+AP2/XVfytnFei3+wdzOfTPNwjWdIJSUa2KyGFV9WPXOvF1OLJBtZsFrwAXbQ==",
+  "dgSpecHash": "VizCe9VxJPvOm1v5+n2trPT70tiJQmmeIsvKqQsnCR3i9D62FqcxEJiV0tMMSoPHqauDtCba/XvdGKY9pzwDtQ==",
   "success": true,
-  "projectFilePath": "g:\\MyGIT\\RazorPagesLesson\\RazorPagesLesson\\RazorPagesLesson.csproj",
+  "projectFilePath": "e:\\prj\\c#\\RazorPagesLesson\\RazorPagesLesson\\RazorPagesLesson.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\roman\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+    "C:\\Users\\alesh\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
   "logs": []
 }

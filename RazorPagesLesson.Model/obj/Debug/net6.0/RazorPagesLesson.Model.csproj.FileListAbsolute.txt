@@ -22,3 +22,15 @@ g:\MyGIT\RazorPagesLesson\RazorPagesLesson.Model\obj\Debug\net6.0\RazorPagesLess
 g:\MyGIT\RazorPagesLesson\RazorPagesLesson.Model\obj\Debug\net6.0\refint\RazorPagesLesson.Model.dll
 g:\MyGIT\RazorPagesLesson\RazorPagesLesson.Model\obj\Debug\net6.0\RazorPagesLesson.Model.pdb
 g:\MyGIT\RazorPagesLesson\RazorPagesLesson.Model\obj\Debug\net6.0\ref\RazorPagesLesson.Model.dll
+e:\prj\c#\RazorPagesLesson\RazorPagesLesson.Model\bin\Debug\net6.0\RazorPagesLesson.Model.deps.json
+e:\prj\c#\RazorPagesLesson\RazorPagesLesson.Model\bin\Debug\net6.0\RazorPagesLesson.Model.dll
+e:\prj\c#\RazorPagesLesson\RazorPagesLesson.Model\bin\Debug\net6.0\RazorPagesLesson.Model.pdb
+e:\prj\c#\RazorPagesLesson\RazorPagesLesson.Model\obj\Debug\net6.0\RazorPagesLesson.Model.csproj.AssemblyReference.cache
+e:\prj\c#\RazorPagesLesson\RazorPagesLesson.Model\obj\Debug\net6.0\RazorPagesLesson.Model.GeneratedMSBuildEditorConfig.editorconfig
+e:\prj\c#\RazorPagesLesson\RazorPagesLesson.Model\obj\Debug\net6.0\RazorPagesLesson.Model.AssemblyInfoInputs.cache
+e:\prj\c#\RazorPagesLesson\RazorPagesLesson.Model\obj\Debug\net6.0\RazorPagesLesson.Model.AssemblyInfo.cs
+e:\prj\c#\RazorPagesLesson\RazorPagesLesson.Model\obj\Debug\net6.0\RazorPagesLesson.Model.csproj.CoreCompileInputs.cache
+e:\prj\c#\RazorPagesLesson\RazorPagesLesson.Model\obj\Debug\net6.0\RazorPagesLesson.Model.dll
+e:\prj\c#\RazorPagesLesson\RazorPagesLesson.Model\obj\Debug\net6.0\refint\RazorPagesLesson.Model.dll
+e:\prj\c#\RazorPagesLesson\RazorPagesLesson.Model\obj\Debug\net6.0\RazorPagesLesson.Model.pdb
+e:\prj\c#\RazorPagesLesson\RazorPagesLesson.Model\obj\Debug\net6.0\ref\RazorPagesLesson.Model.dll
